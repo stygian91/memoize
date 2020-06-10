@@ -1,0 +1,16 @@
+{
+  "name": "stygian/memoize",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Stygian",
+      "email": "kioravuser@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "SMemo\\": "src/"
+    }
+  },
+  "require": {}
+}
